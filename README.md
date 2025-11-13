@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NextGenEcs</title>
+  <title></title>
   <link rel="icon" href="images/iul_logo.webp" type="image/webp">
   <style>
     html {
